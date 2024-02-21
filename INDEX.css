@@ -1,0 +1,46 @@
+body{
+background-image : url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlhTqAI3Sz2oxbvMpqFwnCPcOo0atOlkfn8gemc6reA&s")}
+div.aboutme{
+border : 2px solid black ;
+background-color :lightsalmon ;
+
+}
+span.description{
+font-family : sans-sarif;
+color : blue 
+}
+span.name{
+font-weight: bold;}
+table,th,td, div.education {
+border : 1px solid ;
+text-align : left ;
+padding : 10px;
+background-color : lightblue ;}
+td.std{
+text-align : center;}
+th{
+text-decoration : underline }
+div.spring{
+float:left;
+background-color :lightgreen;
+font-style : fantasy;
+color : red;
+text-decoration : italic;
+border : 2px solid black ;}
+div.autumn{
+color : magenta;
+float:right;
+background-color :lightpink;
+border : 3px solid black ;}
+span.code{
+font-weight: bold;}
+span.prof{font-style : italic ;}
+div.hobbies{
+background-color :orange;
+font-style : serif;
+color : brown;
+text-decoration : italic;
+border : 2px solid black ;
+}
+span.course{
+background-color :yellow;}
